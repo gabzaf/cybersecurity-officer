@@ -2,19 +2,15 @@
 
 Personal operating notes from the CNCS training **Responsável de Cibersegurança** (May 2025), plus a 2026 map onto the law that is actually in force now.
 
-This is not a dump of course slides. It is how I hold the role in my head: the legal duties of a Security Officer under Portuguese cyberspace law, the GRC frameworks that implement them, and the documents I would actually sign.
+How I hold the role in my head: the legal duties of a Security Officer under Portuguese cyberspace law, the GRC frameworks that implement them, and the documents I would actually sign.
 
-**Target roles:** CISO / Security Officer / GRC / NIS2 · RJC compliance / cyber risk / CSIRT liaison in Portugal and the EU.
-
-> **Law as of 2026:** NIS2 is transposed by **Decreto-Lei 125/2025** (Regime Jurídico da Cibersegurança), in force **3 April 2026**, with **Regulamento 756/2026** (CNCS / MyCiber). I trained on the previous stack (**Lei 46/2018 + DL 65/2021**). The job shape is the same — PCP, Security Officer, inventory, risk, plan, incidents, annual report — under a wider essential / important / relevant-public scope. Details in [module 1](modules/01-legislacao/README.md).
+> **Law as of 2026:** NIS2 is transposed by **Decreto-Lei 125/2025** (Regime Jurídico da Cibersegurança), in force **3 April 2026**, with **Regulamento 756/2026** (CNCS / MyCiber). I trained on the previous stack (**Lei 46/2018 + DL 65/2021**). The job shape is the same, PCP, Security Officer, inventory, risk, plan, incidents, annual report, under a wider essential / important / relevant-public scope. Details in [module 1](modules/01-legislacao/README.md).
 
 ---
 
-## What a recruiter can verify here
+## Capability map
 
-I can walk a hiring manager through:
-
-| I know how to… | Under | See |
+| Area | Under | See |
 | --- | --- | --- |
 | Stand up the **Ponto de Contacto Permanente** and the **Responsável de Segurança** | DL 65/2021 Arts. 4–5 | [Module 1](modules/01-legislacao/README.md) |
 | Run **risk analysis** and treat risk (including with **MONARC**) | Art. 10, ISO 27005 | [3](modules/03-analise-risco/README.md), [4](modules/04-monarc/README.md) |
@@ -28,8 +24,6 @@ I can walk a hiring manager through:
 ---
 
 ## Keyword index
-
-Use this as the language I expect in a Portuguese or EU job ad.
 
 **Role:** Responsável de Segurança · CISO · Security Officer · GRC · cyber risk · compliance
 
@@ -65,7 +59,7 @@ flowchart LR
 
 | # | Module | One-liner |
 | --- | --- | --- |
-| 1 | [Legislation](modules/01-legislacao/README.md) | NIS → RJSC → DL 65/2021 → NIS2, and the two named functions |
+| 1 | [Legislation](modules/01-legislacao/README.md) | NIS → RJSC → DL 65/2021 → NIS2 and the two named functions |
 | 2 | [Frameworks](modules/02-frameworks/README.md) | CIS, COBIT, ISO 27001, NIST CSF, QNRCS — when I pick which |
 | 3 | [Risk analysis](modules/03-analise-risco/README.md) | Threat / vuln / asset / control, plus a worked exercise |
 | 4 | [MONARC](modules/04-monarc/README.md) | Tool I used to treat risk, not just describe it |
@@ -85,13 +79,11 @@ flowchart LR
 ## How this was built
 
 - **My notes** from the May 2025 training (legislation timeline, CIS Controls, risk exercise, inventory, annual report).
-- **Structured recaps** of the same syllabus: public law, public CNCS scheme documents, and standard GRC practice. Written so a hiring conversation can start from any module.
-- **Not included on purpose:** course slides, LMS zips, ISO/CIS/COBIT PDFs, videos, or anyone else's keys.
-
-Private course archive stays private. This repo is what I am willing to put my name on.
+- **Structured recaps** of the same syllabus: public law, public CNCS scheme documents and standard GRC practice. Written so a hiring conversation can start from any module.
+- **Not included on purpose:** course slides, LMS zips, ISO/CIS/COBIT PDFs, videos or anyone else's keys.
 
 ---
 
 ## Disclaimer
 
-Unofficial personal notes. Not affiliated with CNCS. Not legal advice. Laws and schemes change — read the source text (**DL 125/2025**, **Reg. 756/2026**, and for the trained model Lei 46/2018 / DL 65/2021) before you act.
+Unofficial personal notes. Not affiliated with CNCS. Not legal advice. Laws and schemes change. Read the source text (**DL 125/2025**, **Reg. 756/2026**, and for the trained model Lei 46/2018 / DL 65/2021) before you act.
