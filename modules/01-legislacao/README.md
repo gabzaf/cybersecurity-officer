@@ -8,7 +8,7 @@ The training (May 2025) was taught on **Lei 46/2018 + DL 65/2021**. Those texts 
 
 ---
 
-## Current law (what I would cite in a 2026 interview)
+## Current law
 
 | Date | Instrument | Meaning |
 | --- | --- | --- |
@@ -53,21 +53,21 @@ Operational/technical channel with CNCS. It is a **function**, not a person: one
 
 ### Responsável de Segurança — Art. 5
 
-The Security Officer / CISO-shaped role this training is named after. Manages security requirements and incident notification. **Signs** the asset inventory, the security plan, and the annual report. Should report to top management, know both business and tech, turn entity objectives into information-security requirements, and keep the PCP actually usable.
+The Security Officer / CISO-shaped role this training is named after. Manages security requirements and incident notification. **Signs** the asset inventory, the security plan and the annual report. Should report to top management, know both business and tech, turn entity objectives into information-security requirements and keep the PCP actually usable.
 
 Responsibilities I list in interviews:
 
-1. Information security strategy  
-2. Conformity with **RJSC** and **RGPD**  
-3. Good practice — **QNRCS**, **ISO/IEC 27001**  
-4. Define requirements and measures  
-5. Policies, processes, procedures  
-6. Legal literacy  
-7. Risk management  
-8. Change and incident management  
-9. Follow audits  
-10. Application-system strategy  
-11. Cyber awareness  
+1. Information security strategy
+2. Conformity with **RJSC** and **RGPD**
+3. Good practice — **QNRCS**, **ISO/IEC 27001**
+4. Define requirements and measures
+5. Policies, processes, procedures
+6. Legal literacy 
+7. Risk management
+8. Change and incident management
+9. Follow audits
+10. Application-system strategy
+11. Cyber awareness
 
 ---
 
@@ -90,9 +90,9 @@ Micro and small digital service providers were carved out of some NIS-era duties
 
 ---
 
-## NIS2 / RJC — what I would actually say in a meeting
+## NIS2 / RJC
 
-- Drop OES vs DSP. Use **essential** vs **important** (plus Portugal’s **relevant public entities**). Same core duties, different supervisory intensity.  
+- Drop OES vs DSP. Use **essential** vs **important** (plus Portugal’s **relevant public entities**). Same core duties, different supervisory intensity.
 - **Governance:** management bodies can be held to account for non-compliance. Security is no longer a side-of-desk IT topic.  
 - Risk-management measures include supply chain, cryptography, HR security, incident handling, business continuity.  
 - Incident reporting with an early warning and follow-up (plus MyCiber as the national channel).  
@@ -105,6 +105,6 @@ Micro and small digital service providers were carved out of some NIS-era duties
 
 Processing must satisfy the six principles (lawfulness, fairness, transparency; purpose limitation; data minimisation; accuracy; storage limitation; integrity and confidentiality) plus accountability.
 
-**Consent ≠ terms and conditions.** That was a note I wrote on day one. If the legal basis is consent, it has to be specific, informed, unambiguous, and withdrawable. Stuffing it into T&Cs is how you fail a CNPD conversation.
+**Consent ≠ terms and conditions.** That was a note I wrote on day one. If the legal basis is consent, it has to be specific, informed, unambiguous and withdrawable. Stuffing it into T&Cs is how you fail a CNPD conversation.
 
 Cyber incident with personal data: technical and organisational measures (GDPR Art. 32) and breach notification sit next to RJSC notification, not instead of it.
