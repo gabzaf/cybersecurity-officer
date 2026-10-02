@@ -108,3 +108,7 @@ Processing must satisfy the six principles (lawfulness, fairness, transparency; 
 **Consent ≠ terms and conditions.** That was a note I wrote on day one. If the legal basis is consent, it has to be specific, informed, unambiguous and withdrawable. Stuffing it into T&Cs is how you fail a CNPD conversation.
 
 Cyber incident with personal data: technical and organisational measures (GDPR Art. 32) and breach notification sit next to RJSC notification, not instead of it.
+
+---
+
+[Index](../../README.md#modules) · [02 Frameworks](../02-frameworks/README.md) →

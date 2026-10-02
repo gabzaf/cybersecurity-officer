@@ -32,3 +32,7 @@ I would pursue a seal when the organisation wants a **communicable** maturity si
 ## Interview line
 
 “Maturity seals are a communication and capability tool in the Portuguese quality system. I can run a dual-track: legal RJSC programme plus optional QNRCS cert and/or a digital maturity seal, without mixing the three in a press release.”
+
+---
+
+← [13 QNRCS certification](../13-certificacao-qnrcs/README.md) · [Index](../../README.md#modules)

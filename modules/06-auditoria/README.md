@@ -38,3 +38,7 @@ Independence: if I designed the control, I should not be the only one declaring 
 ## Interview line
 
 “I can scope a cyber audit, sit through it without theatre, and turn findings into a risk-treatment backlog with owners. Audit without monitoring is a snapshot; monitoring without audit is unchallenged telemetry.”
+
+---
+
+← [05 Technical & organisational measures](../05-medidas/README.md) · [Index](../../README.md#modules) · [07 Asset inventory](../07-inventario-ativos/README.md) →

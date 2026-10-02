@@ -44,3 +44,7 @@ I practised a plan that tied IR to NIST 800-61, SOC 24/7, dual-cloud failover th
 ## Interview line
 
 “The security plan is the yearly (or cycle) contract between residual risk and budget. I write it so Art. 7, the risk register, and next year’s annual report tell the same story.”
+
+---
+
+← [09 Information security policy](../09-politica-seguranca/README.md) · [Index](../../README.md#modules) · [11 Annual report](../11-relatorio-anual/README.md) →

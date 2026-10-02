@@ -38,3 +38,7 @@ I structured a PSI for a fictional company (TechSolutions): ISO 27001:2022 SGSI,
 ## Interview line
 
 “A PSI is leadership’s security contract with the organisation. I write it short enough to be read, hang child standards under it, and I will not call it ‘implemented’ until joiner/leaver and incident processes match the text.”
+
+---
+
+← [08 Incident management](../08-gestao-incidentes/README.md) · [Index](../../README.md#modules) · [10 Security plan](../10-plano-seguranca/README.md) →

@@ -35,3 +35,7 @@ I practised the **operational** last mile: official template, signing, encryptin
 ## Interview line
 
 “The annual report is the Security Officer’s signature on the year. I treat it as management review plus CNCS evidence: what we said we would do, what we did, what broke, what we will do next — encrypted and on time.”
+
+---
+
+← [10 Security plan](../10-plano-seguranca/README.md) · [Index](../../README.md#modules) · [12 Compliance programme (RJC / NIS2)](../12-conformidade-rjsc/README.md) →

@@ -36,3 +36,7 @@ Nonconformities (major / minor) and opportunities for improvement are the audit 
 ## Interview line
 
 “I can explain QNRCS certification as a CNCS-owned, IPAC-accredited, three-level scheme with a risk-based statement of applicability. I would use it as assurance to stakeholders, never as a substitute for RJSC operational duties.”
+
+---
+
+← [12 Compliance programme (RJC / NIS2)](../12-conformidade-rjsc/README.md) · [Index](../../README.md#modules) · [14 Digital maturity seal](../14-selo-maturidade/README.md) →

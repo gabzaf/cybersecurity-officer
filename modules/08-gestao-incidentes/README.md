@@ -45,3 +45,7 @@ Preparation is the only stage you can still do on a quiet day: IRP, contact list
 ## Interview line
 
 “Incident response is a legal duty with a clock, not a hero moment. I care about preparation, a severity model, dual CNCS/CNPD notification when data is in play, and a lessons-learned loop back into Art. 10.”
+
+---
+
+← [07 Asset inventory](../07-inventario-ativos/README.md) · [Index](../../README.md#modules) · [09 Information security policy](../09-politica-seguranca/README.md) →

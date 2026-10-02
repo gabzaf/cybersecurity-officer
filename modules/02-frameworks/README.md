@@ -104,3 +104,7 @@ CNCS **CiberCheckup** (https://cibercheckup.cncs.gov.pt/) is the questionnaire I
 ## Interview line
 
 “I do not implement a framework for its logo. I map **DL 65/2021 duties** to **QNRCS functions**, pick **CIS** for the first control backlog, keep an **ISO 27001** ISMS if the organisation needs a SoA or a certificate, and use **COBIT** when I am talking to the board about governance versus management.”
+
+---
+
+← [01 Legislation](../01-legislacao/README.md) · [Index](../../README.md#modules) · [03 Risk analysis](../03-analise-risco/README.md) →

@@ -74,3 +74,7 @@ Legal hooks: RJSC Lei 46/2018 (duties and incident regime) + DL 65/2021 Art. 9.
 ## Interview line
 
 “Measures are the output of Art. 10, not a shopping list. I pick TOMs from QNRCS / ISO 27002 against residual risk, then I can show a CNPD or CNCS auditor *why this control exists*.”
+
+---
+
+← [04 MONARC](../04-monarc/README.md) · [Index](../../README.md#modules) · [06 Audit & monitoring](../06-auditoria/README.md) →

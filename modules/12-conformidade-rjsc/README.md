@@ -29,3 +29,7 @@ Do not write a PSI before you know the assets. Do not write a security plan befo
 ## Interview line
 
 “RJC / NIS2 compliance is a programme with a legal backlog, not a project with an end date. I sequence inventory, risk, measures, policy, plan, IR, and reporting so each artefact cites the previous one.”
+
+---
+
+← [11 Annual report](../11-relatorio-anual/README.md) · [Index](../../README.md#modules) · [13 QNRCS certification](../13-certificacao-qnrcs/README.md) →

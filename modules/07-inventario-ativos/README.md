@@ -37,3 +37,7 @@ Each asset needs an **owner** (accountable), classification, location, dependenc
 ## Interview line
 
 “I keep a living internal CMDB-quality inventory for risk, and a signed Art. 6 extract for CNCS that is only the internet-facing set. Asset owner is a name, not a team alias.”
+
+---
+
+← [06 Audit & monitoring](../06-auditoria/README.md) · [Index](../../README.md#modules) · [08 Incident management](../08-gestao-incidentes/README.md) →
