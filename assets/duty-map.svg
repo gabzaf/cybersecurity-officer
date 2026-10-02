@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1140" viewBox="0 0 1920 1140">
+<defs>
+<marker id="ah-duty" viewBox="0 0 12 12" refX="10.5" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M1,1 L11.5,6 L1,11 L4,6 Z" fill="#5cc8e0"/></marker>
+<marker id="ah-report" viewBox="0 0 12 12" refX="10.5" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M1,1 L11.5,6 L1,11 L4,6 Z" fill="#ff6b5e"/></marker>
+<marker id="ah-cycle" viewBox="0 0 12 12" refX="10.5" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M1,1 L11.5,6 L1,11 L4,6 Z" fill="#3fd18a"/></marker>
+<marker id="ah-sign" viewBox="0 0 12 12" refX="10.5" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M1,1 L11.5,6 L1,11 L4,6 Z" fill="#f0a640"/></marker>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#1c2633"/></pattern>
+</defs>
+<rect width="1920" height="1140" fill="#0b1016"/>
+<rect width="1920" height="1140" fill="url(#dots)"/>
+<text x="40" y="62" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="38" font-weight="bold" font-style="normal" fill="#5cc8e0" text-anchor="start">Security Officer Duty Map · Portugal</text>
+<text x="40" y="94" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" font-style="normal" fill="#8d99a8" text-anchor="start">The DL 65/2021 anatomy I trained on   →   what DL 125/2025 (NIS2) + Regulamento 756/2026 add from April 2026</text>
+<text x="1880" y="60" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" font-style="normal" fill="#e6edf3" text-anchor="end">Gabriel Affonso</text>
+<text x="1880" y="86" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#8d99a8" text-anchor="end">CNCS training · Responsável de Cibersegurança · 2025</text>
+<line x1="40" y1="112" x2="1880" y2="112" stroke="#3a4554" stroke-width="1.4"/>
+<rect x="40" y="124" width="385" height="656" rx="18" fill="#171309" stroke="#f0a640" stroke-width="1.8" stroke-dasharray="8 6"/>
+<text x="232.5" y="156" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" font-style="normal" fill="#f0a640" text-anchor="middle" letter-spacing="1.6">NAMED FUNCTIONS</text>
+<rect x="440" y="124" width="980" height="656" rx="18" fill="#0d1420" stroke="#6ea8ff" stroke-width="1.8" stroke-dasharray="8 6"/>
+<text x="930.0" y="156" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle" letter-spacing="1.6">RISK CYCLE · DL 65/2021</text>
+<rect x="1435" y="124" width="445" height="656" rx="18" fill="#170f12" stroke="#ff7a6b" stroke-width="1.8" stroke-dasharray="8 6"/>
+<text x="1657.5" y="156" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" font-style="normal" fill="#ff7a6b" text-anchor="middle" letter-spacing="1.6">INCIDENTS · AUTHORITIES</text>
+<rect x="65" y="200" width="335" height="220" rx="7" fill="#111821" stroke="#f0a640" stroke-width="1.6"/>
+<path d="M65,254 L65,207 Q65,200 72,200 L393,200 Q400,200 400,207 L400,254 Z" fill="#3a2a10" stroke="#f0a640" stroke-width="1.6"/>
+<text x="232.5" y="220" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«function»</text>
+<text x="232.5" y="243" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#f0a640" text-anchor="middle">Ponto de Contacto Permanente</text>
+<rect x="340.5" y="208" width="51.5" height="20" rx="10" fill="#0b1016" stroke="#f0a640" stroke-width="1.2"/>
+<text x="366.25" y="222.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#f0a640" text-anchor="middle">Art.4</text>
+<text x="81" y="280" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">Operational channel with CNCS</text>
+<text x="81" y="302" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">a function, not a person</text>
+<text x="81" y="324" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">24/7 during activation</text>
+<line x1="65" y1="334" x2="400" y2="334" stroke="#f0a640" stroke-width="1.2"/>
+<text x="81" y="360" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#e6edf3" text-anchor="start">Notify CNCS</text>
+<text x="81" y="382" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">≤ 20 working days after start</text>
+<text x="81" y="404" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">immediately on any change</text>
+<rect x="65" y="450" width="335" height="220" rx="7" fill="#111821" stroke="#f0a640" stroke-width="1.6"/>
+<path d="M65,504 L65,457 Q65,450 72,450 L393,450 Q400,450 400,457 L400,504 Z" fill="#3a2a10" stroke="#f0a640" stroke-width="1.6"/>
+<text x="232.5" y="470" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«function»</text>
+<text x="232.5" y="493" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#f0a640" text-anchor="middle">Responsável de Segurança</text>
+<rect x="340.5" y="458" width="51.5" height="20" rx="10" fill="#0b1016" stroke="#f0a640" stroke-width="1.2"/>
+<text x="366.25" y="472.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#f0a640" text-anchor="middle">Art.5</text>
+<text x="81" y="530" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">CISO-shaped role</text>
+<text x="81" y="552" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">reports to top management</text>
+<line x1="65" y1="562" x2="400" y2="562" stroke="#f0a640" stroke-width="1.2"/>
+<text x="81" y="588" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#e6edf3" text-anchor="start">Signs</text>
+<text x="81" y="610" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">asset inventory</text>
+<text x="81" y="632" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">security plan</text>
+<text x="81" y="654" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">annual report</text>
+<rect x="466" y="230" width="280" height="140" rx="7" fill="#111821" stroke="#6ea8ff" stroke-width="1.6"/>
+<path d="M466,284 L466,237 Q466,230 473,230 L739,230 Q746,230 746,237 L746,284 Z" fill="#15284a" stroke="#6ea8ff" stroke-width="1.6"/>
+<text x="606.0" y="250" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«duty»</text>
+<text x="606.0" y="273" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle">Asset inventory</text>
+<rect x="641.5" y="238" width="96.5" height="20" rx="10" fill="#0b1016" stroke="#6ea8ff" stroke-width="1.2"/>
+<text x="689.75" y="252.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle">Art.6 · M07</text>
+<text x="482" y="310" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">internal CMDB for risk</text>
+<text x="482" y="332" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">signed extract for CNCS</text>
+<text x="482" y="354" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">owner = a name, not an alias</text>
+<rect x="791" y="230" width="280" height="140" rx="7" fill="#111821" stroke="#6ea8ff" stroke-width="1.6"/>
+<path d="M791,284 L791,237 Q791,230 798,230 L1064,230 Q1071,230 1071,237 L1071,284 Z" fill="#15284a" stroke="#6ea8ff" stroke-width="1.6"/>
+<text x="931.0" y="250" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«duty»</text>
+<text x="931.0" y="273" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle">Risk analysis</text>
+<rect x="959.0" y="238" width="104.0" height="20" rx="10" fill="#0b1016" stroke="#6ea8ff" stroke-width="1.2"/>
+<text x="1011.0" y="252.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle">Art.10 · M03</text>
+<text x="807" y="310" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">threat · vuln · asset · control</text>
+<text x="807" y="332" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">ISO 27005 · MONARC</text>
+<text x="807" y="354" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">residual risk has an owner</text>
+<rect x="1116" y="230" width="280" height="140" rx="7" fill="#111821" stroke="#6ea8ff" stroke-width="1.6"/>
+<path d="M1116,284 L1116,237 Q1116,230 1123,230 L1389,230 Q1396,230 1396,237 L1396,284 Z" fill="#15284a" stroke="#6ea8ff" stroke-width="1.6"/>
+<text x="1256.0" y="250" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«duty»</text>
+<text x="1256.0" y="273" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle">Measures (TOMs)</text>
+<rect x="1291.5" y="238" width="96.5" height="20" rx="10" fill="#0b1016" stroke="#6ea8ff" stroke-width="1.2"/>
+<text x="1339.75" y="252.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle">Art.9 · M05</text>
+<text x="1132" y="310" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">from QNRCS / ISO 27002</text>
+<text x="1132" y="332" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">CIS v8 as first backlog</text>
+<text x="1132" y="354" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">defense in depth</text>
+<rect x="1116" y="500" width="280" height="140" rx="7" fill="#111821" stroke="#6ea8ff" stroke-width="1.6"/>
+<path d="M1116,554 L1116,507 Q1116,500 1123,500 L1389,500 Q1396,500 1396,507 L1396,554 Z" fill="#15284a" stroke="#6ea8ff" stroke-width="1.6"/>
+<text x="1256.0" y="520" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«duty»</text>
+<text x="1256.0" y="543" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle">Security plan</text>
+<rect x="1291.5" y="508" width="96.5" height="20" rx="10" fill="#0b1016" stroke="#6ea8ff" stroke-width="1.2"/>
+<text x="1339.75" y="522.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle">Art.7 · M10</text>
+<text x="1132" y="580" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">measures · owners · budget</text>
+<text x="1132" y="602" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">continuity: BCP / DR</text>
+<text x="1132" y="624" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">RTO / RPO</text>
+<rect x="791" y="500" width="280" height="140" rx="7" fill="#111821" stroke="#6ea8ff" stroke-width="1.6"/>
+<path d="M791,554 L791,507 Q791,500 798,500 L1064,500 Q1071,500 1071,507 L1071,554 Z" fill="#15284a" stroke="#6ea8ff" stroke-width="1.6"/>
+<text x="931.0" y="520" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«duty»</text>
+<text x="931.0" y="543" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle">Annual report</text>
+<rect x="966.5" y="508" width="96.5" height="20" rx="10" fill="#0b1016" stroke="#6ea8ff" stroke-width="1.2"/>
+<text x="1014.75" y="522.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#6ea8ff" text-anchor="middle">Art.8 · M11</text>
+<text x="807" y="580" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">what we said · what we did</text>
+<text x="807" y="602" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">what broke · what is next</text>
+<text x="807" y="624" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">sent to CNCS, on time</text>
+<path d="M466,600 L730,600 L746,616 L746,675 L466,675 Z" fill="#161b22" stroke="#8d99a8" stroke-width="1.3"/>
+<path d="M730,600 L730,616 L746,616" fill="none" stroke="#8d99a8" stroke-width="1.3"/>
+<text x="479" y="623" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" font-style="italic" fill="#b9c2cd" text-anchor="start">Each artefact cites the</text>
+<text x="479" y="642" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" font-style="italic" fill="#b9c2cd" text-anchor="start">previous one. The cycle is</text>
+<text x="479" y="661" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" font-style="italic" fill="#b9c2cd" text-anchor="start">the compliance programme (M12).</text>
+<path d="M746,300 L789,300" fill="none" stroke="#5cc8e0" stroke-width="2.6" marker-end="url(#ah-duty)"/>
+<path d="M1071,300 L1114,300" fill="none" stroke="#5cc8e0" stroke-width="2.6" marker-end="url(#ah-duty)"/>
+<path d="M1256.0,370 L1256.0,498" fill="none" stroke="#5cc8e0" stroke-width="2.6" marker-end="url(#ah-duty)"/>
+<path d="M1116,570 L1073,570" fill="none" stroke="#5cc8e0" stroke-width="2.6" marker-end="url(#ah-duty)"/>
+<path d="M931.0,500 L931.0,372" fill="none" stroke="#3fd18a" stroke-width="2.6" stroke-dasharray="9 6" marker-end="url(#ah-cycle)"/>
+<text x="943.0" y="440.0" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" fill="#3fd18a" text-anchor="start" paint-order="stroke" stroke="#0b1016" stroke-width="5" stroke-linejoin="round">next cycle</text>
+<path d="M400,476 L430,476 L430,300 L464,300" fill="none" stroke="#f0a640" stroke-width="2.6" marker-end="url(#ah-sign)"/>
+<path d="M430,476 L760,476 L760,570 L789,570" fill="none" stroke="#f0a640" stroke-width="2.6" marker-end="url(#ah-sign)"/>
+<text x="600" y="466" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" fill="#f0a640" text-anchor="middle" paint-order="stroke" stroke="#0b1016" stroke-width="5" stroke-linejoin="round">owns · signs</text>
+<rect x="1460" y="215" width="395" height="118" rx="7" fill="#111821" stroke="#b197fc" stroke-width="1.6"/>
+<path d="M1460,269 L1460,222 Q1460,215 1467,215 L1848,215 Q1855,215 1855,222 L1855,269 Z" fill="#2a2142" stroke="#b197fc" stroke-width="1.6"/>
+<text x="1657.5" y="235" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«authority»</text>
+<text x="1657.5" y="258" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#b197fc" text-anchor="middle">CNCS · CSIRT Nacional</text>
+<text x="1476" y="295" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">cyber incident notification</text>
+<text x="1476" y="317" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">supervision of the entity</text>
+<rect x="1460" y="390" width="395" height="198" rx="7" fill="#111821" stroke="#ff7a6b" stroke-width="1.6"/>
+<path d="M1460,444 L1460,397 Q1460,390 1467,390 L1848,390 Q1855,390 1855,397 L1855,444 Z" fill="#3a1b1e" stroke="#ff7a6b" stroke-width="1.6"/>
+<text x="1657.5" y="410" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«process»</text>
+<text x="1657.5" y="433" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#ff7a6b" text-anchor="middle">Incident response</text>
+<rect x="1713.0" y="398" width="134.0" height="20" rx="10" fill="#0b1016" stroke="#ff7a6b" stroke-width="1.2"/>
+<text x="1780.0" y="412.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#ff7a6b" text-anchor="middle">Arts.11–17 · M08</text>
+<text x="1476" y="470" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#e6edf3" text-anchor="start">Lifecycle</text>
+<text x="1476" y="492" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">prepare · detect · contain</text>
+<text x="1476" y="514" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">eradicate · recover · learn</text>
+<line x1="1460" y1="524" x2="1855" y2="524" stroke="#ff7a6b" stroke-width="1.2"/>
+<text x="1476" y="550" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#e6edf3" text-anchor="start">Severity model</text>
+<text x="1476" y="572" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">lessons learned feed Art. 10</text>
+<rect x="1460" y="640" width="395" height="118" rx="7" fill="#111821" stroke="#b197fc" stroke-width="1.6"/>
+<path d="M1460,694 L1460,647 Q1460,640 1467,640 L1848,640 Q1855,640 1855,647 L1855,694 Z" fill="#2a2142" stroke="#b197fc" stroke-width="1.6"/>
+<text x="1657.5" y="660" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«authority»</text>
+<text x="1657.5" y="683" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#b197fc" text-anchor="middle">CNPD</text>
+<text x="1476" y="720" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">personal-data breach</text>
+<text x="1476" y="742" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">RGPD Art. 33 · 72 h</text>
+<path d="M1657.5,390 L1657.5,335" fill="none" stroke="#ff6b5e" stroke-width="2.6" stroke-dasharray="8 6" marker-end="url(#ah-report)"/>
+<text x="1669.5" y="368" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" fill="#ff6b5e" text-anchor="start" paint-order="stroke" stroke="#0b1016" stroke-width="5" stroke-linejoin="round">notify</text>
+<path d="M1657.5,592 L1657.5,638" fill="none" stroke="#ff6b5e" stroke-width="2.6" stroke-dasharray="8 6" marker-end="url(#ah-report)"/>
+<text x="1671.5" y="624" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" fill="#ff6b5e" text-anchor="start" paint-order="stroke" stroke="#0b1016" stroke-width="5" stroke-linejoin="round">if personal data</text>
+<path d="M400,240 L414,240 L414,188 L1500,188 L1500,213" fill="none" stroke="#ff6b5e" stroke-width="2.6" stroke-dasharray="8 6" marker-end="url(#ah-report)"/>
+<text x="930" y="208" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" fill="#ff6b5e" text-anchor="middle" paint-order="stroke" stroke="#0b1016" stroke-width="5" stroke-linejoin="round">24/7 channel to CNCS</text>
+<rect x="40" y="800" width="1840" height="210" rx="18" fill="#0c1712" stroke="#4fd18b" stroke-width="1.8"/>
+<text x="960.0" y="832" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" font-style="normal" fill="#4fd18b" text-anchor="middle" letter-spacing="1.6">IN FORCE 2026 · DL 125/2025 (NIS2) + REGULAMENTO 756/2026</text>
+<rect x="65" y="850" width="428" height="140" rx="7" fill="#111821" stroke="#4fd18b" stroke-width="1.6"/>
+<path d="M65,904 L65,857 Q65,850 72,850 L486,850 Q493,850 493,857 L493,904 Z" fill="#113322" stroke="#4fd18b" stroke-width="1.6"/>
+<text x="279.0" y="870" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«scope»</text>
+<text x="279.0" y="893" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#4fd18b" text-anchor="middle">Wider scope</text>
+<rect x="448.5" y="858" width="36.5" height="20" rx="10" fill="#0b1016" stroke="#4fd18b" stroke-width="1.2"/>
+<text x="466.75" y="872.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#4fd18b" text-anchor="middle">M01</text>
+<text x="81" y="930" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">essential · important · relevant public</text>
+<text x="81" y="952" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">thousands more organisations</text>
+<text x="81" y="974" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">incl. medium enterprises in listed sectors</text>
+<rect x="519" y="850" width="428" height="140" rx="7" fill="#111821" stroke="#4fd18b" stroke-width="1.6"/>
+<path d="M519,904 L519,857 Q519,850 526,850 L940,850 Q947,850 947,857 L947,904 Z" fill="#113322" stroke="#4fd18b" stroke-width="1.6"/>
+<text x="733.0" y="870" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«governance»</text>
+<text x="733.0" y="893" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#4fd18b" text-anchor="middle">Management body accountable</text>
+<rect x="902.5" y="858" width="36.5" height="20" rx="10" fill="#0b1016" stroke="#4fd18b" stroke-width="1.2"/>
+<text x="920.75" y="872.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#4fd18b" text-anchor="middle">M01</text>
+<text x="535" y="930" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">liability is in force, not a talking point</text>
+<text x="535" y="952" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">fines at GDPR scale</text>
+<text x="535" y="974" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">same PCP + Security Officer, re-notified</text>
+<rect x="973" y="850" width="428" height="140" rx="7" fill="#111821" stroke="#4fd18b" stroke-width="1.6"/>
+<path d="M973,904 L973,857 Q973,850 980,850 L1394,850 Q1401,850 1401,857 L1401,904 Z" fill="#113322" stroke="#4fd18b" stroke-width="1.6"/>
+<text x="1187.0" y="870" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«measures»</text>
+<text x="1187.0" y="893" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#4fd18b" text-anchor="middle">Supply chain &amp; more</text>
+<rect x="1356.5" y="858" width="36.5" height="20" rx="10" fill="#0b1016" stroke="#4fd18b" stroke-width="1.2"/>
+<text x="1374.75" y="872.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#4fd18b" text-anchor="middle">M05</text>
+<text x="989" y="930" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">supplier risk inside the measures</text>
+<text x="989" y="952" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">cryptography · HR security</text>
+<text x="989" y="974" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">business continuity</text>
+<rect x="1427" y="850" width="428" height="140" rx="7" fill="#111821" stroke="#4fd18b" stroke-width="1.6"/>
+<path d="M1427,904 L1427,857 Q1427,850 1434,850 L1848,850 Q1855,850 1855,857 L1855,904 Z" fill="#113322" stroke="#4fd18b" stroke-width="1.6"/>
+<text x="1641.0" y="870" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" font-style="italic" fill="#8d99a8" text-anchor="middle">«reporting»</text>
+<text x="1641.0" y="893" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" font-style="normal" fill="#4fd18b" text-anchor="middle">MyCiber</text>
+<rect x="1810.5" y="858" width="36.5" height="20" rx="10" fill="#0b1016" stroke="#4fd18b" stroke-width="1.2"/>
+<text x="1828.75" y="872.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#4fd18b" text-anchor="middle">M08</text>
+<text x="1443" y="930" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">CNCS platform: register / self-identify</text>
+<text x="1443" y="952" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">national incident-reporting channel</text>
+<text x="1443" y="974" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#c9d3df" text-anchor="start">early warning → notification → report</text>
+<line x1="40" y1="1030" x2="1880" y2="1030" stroke="#3a4554" stroke-width="1.4"/>
+<path d="M40,1060 L90,1060" fill="none" stroke="#5cc8e0" stroke-width="2.6" marker-end="url(#ah-duty)"/>
+<text x="102" y="1065" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#8d99a8" text-anchor="start">duty flow</text>
+<path d="M210,1060 L260,1060" fill="none" stroke="#f0a640" stroke-width="2.6" marker-end="url(#ah-sign)"/>
+<text x="272" y="1065" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#8d99a8" text-anchor="start">owns / signs</text>
+<path d="M400,1060 L450,1060" fill="none" stroke="#ff6b5e" stroke-width="2.6" stroke-dasharray="8 6" marker-end="url(#ah-report)"/>
+<text x="462" y="1065" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#8d99a8" text-anchor="start">report to an authority</text>
+<path d="M650,1060 L700,1060" fill="none" stroke="#3fd18a" stroke-width="2.6" stroke-dasharray="9 6" marker-end="url(#ah-cycle)"/>
+<text x="712" y="1065" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#8d99a8" text-anchor="start">next cycle</text>
+<rect x="819.5" y="1050" width="96.5" height="20" rx="10" fill="#0b1016" stroke="#e6edf3" stroke-width="1.2"/>
+<text x="867.75" y="1064.5" font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="bold" font-style="normal" fill="#e6edf3" text-anchor="middle">Art.6 · M07</text>
+<text x="932" y="1065" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" font-style="normal" fill="#8d99a8" text-anchor="start">DL 65/2021 article · repo module</text>
+<rect x="40" y="1088" width="600" height="30" rx="15" fill="#111821" stroke="#8d99a8" stroke-width="1.3"/>
+<text x="340.0" y="1108.5" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" fill="#e6edf3" text-anchor="middle">QNRCS · ISO/IEC 27001 / 27005 · NIST CSF 2.0 · CIS Controls v8 · MONARC</text>
+<text x="1880" y="1109" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" font-style="normal" fill="#e6edf3" text-anchor="end">github.com/gabzaf/cybersecurity-officer</text>
+</svg>

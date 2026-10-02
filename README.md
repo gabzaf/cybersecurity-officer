@@ -50,31 +50,9 @@ The article column is the **DL 65/2021 anatomy I trained on**. The same duties c
 
 ## Duty map
 
-```mermaid
-flowchart LR
-  subgraph law [Trained model: DL 65/2021]
-    A4[Art.4 PCP]
-    A5[Art.5 Security Officer]
-    A6[Art.6 Inventory]
-    A10[Art.10 Risk]
-    A9[Art.9 Measures]
-    A7[Art.7 Security plan]
-    A8[Art.8 Annual report]
-    A11[Arts.11-17 Incidents]
-  end
-  A5 --> A6 --> A10 --> A9 --> A7
-  A5 --> A8
-  A5 --> A11
-  A4 -.-> A11
-  subgraph now [2026: DL 125/2025 + Reg. 756/2026]
-    MB[Management body accountable]
-    SC[Supply-chain security]
-    MC[MyCiber registration + reporting]
-  end
-  A5 ==> MB
-  A9 ==> SC
-  A11 ==> MC
-```
+[![Security Officer duty map: DL 65/2021 risk cycle, incidents and authorities, plus what DL 125/2025 adds in 2026](assets/duty-map.png)](assets/duty-map.svg)
+
+<sub>Source: [assets/build_duty_map.py](assets/build_duty_map.py) · click for the SVG.</sub>
 
 ---
 
