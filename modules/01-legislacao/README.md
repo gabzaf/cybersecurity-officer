@@ -58,7 +58,7 @@ The Security Officer / CISO-shaped role this training is named after. Manages se
 Responsibilities I list in interviews:
 
 1. Information security strategy
-2. Conformity with **RJSC** and **RGPD**
+2. Conformity with **RJC** (formerly RJSC) and **RGPD**
 3. Good practice — **QNRCS**, **ISO/IEC 27001**
 4. Define requirements and measures
 5. Policies, processes, procedures
@@ -84,7 +84,7 @@ Responsibilities I list in interviews:
 | Risk analysis of all relevant assets | Art. 10 | [03](../03-analise-risco/README.md) |
 | Incident notification | Arts. 11–17 | [08](../08-gestao-incidentes/README.md) |
 
-Original RJSC rollout dates I memorised: PCP + Security Officer + security plan + incident duty from Dec 2021; annual report + inventory from Jan 2022; risk analysis and measures from Aug 2022. Those clocks mattered for first-wave entities; NIS2 will reset the map.
+Original RJSC rollout dates I memorised: PCP + Security Officer + security plan + incident duty from Dec 2021; annual report + inventory from Jan 2022; risk analysis and measures from Aug 2022. Those clocks mattered for first-wave entities. DL 125/2025 has since reset the map (see **Current law** above).
 
 Micro and small digital service providers were carved out of some NIS-era duties (micro: <10 people / <€2M; small: <50 / <€10M). NIS2 **narrows** those carve-outs — I do not quote 2018 thresholds as if they were still the whole story.
 

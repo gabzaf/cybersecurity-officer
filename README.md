@@ -8,22 +8,31 @@ How I hold the role in my head: the legal duties of a Security Officer under Por
 
 ---
 
+**Start here (5 minutes):** [Legislation](modules/01-legislacao/README.md) → [Risk analysis](modules/03-analise-risco/README.md) → [Incident management](modules/08-gestao-incidentes/README.md) → [Compliance programme](modules/12-conformidade-rjsc/README.md).
+
+---
+
 ## Capability map
 
-| Area | Under | See |
+The article column is the **DL 65/2021 anatomy I trained on**. The same duties carry into DL 125/2025 + Reg. 756/2026. When I write for an entity in 2026, I cite the new diploma.
+
+| Area | Trained on (DL 65/2021) | See |
 | --- | --- | --- |
-| Stand up the **Ponto de Contacto Permanente** and the **Responsável de Segurança** | DL 65/2021 Arts. 4–5 | [Module 1](modules/01-legislacao/README.md) |
+| Stand up the **Ponto de Contacto Permanente** and the **Responsável de Segurança** | Arts. 4–5 | [Module 1](modules/01-legislacao/README.md) |
 | Run **risk analysis** and treat risk (including with **MONARC**) | Art. 10, ISO 27005 | [3](modules/03-analise-risco/README.md), [4](modules/04-monarc/README.md) |
 | Build an **asset inventory** that is defensible to CNCS | Art. 6 | [7](modules/07-inventario-ativos/README.md) |
 | Write a **PSI** and a **Plano de Segurança** | Arts. 7, 9 | [9](modules/09-politica-seguranca/README.md), [10](modules/10-plano-seguranca/README.md) |
 | Run **incident response** and **notify CNCS** | Arts. 11–17, Lei 46/2018 | [8](modules/08-gestao-incidentes/README.md) |
 | Produce the **Relatório Anual de Cibersegurança** | Art. 8 | [11](modules/11-relatorio-anual/README.md) |
 | Map controls to **QNRCS**, **ISO 27001**, **NIST CSF**, **CIS Controls**, **COBIT** | GRC | [2](modules/02-frameworks/README.md), [13](modules/13-certificacao-qnrcs/README.md) |
-| Plan **RJSC / NIS2** compliance and talk **maturity** | QNRCS, Selo Digital | [12](modules/12-conformidade-rjsc/README.md), [14](modules/14-selo-maturidade/README.md) |
+| Plan **RJC / NIS2** compliance and talk **maturity** | DL 125/2025, QNRCS, Selo Digital | [12](modules/12-conformidade-rjsc/README.md), [14](modules/14-selo-maturidade/README.md) |
 
 ---
 
 ## Keyword index
+
+<details>
+<summary>Search terms (PT / EU / frameworks / operations)</summary>
 
 **Role:** Responsável de Segurança · CISO · Security Officer · GRC · cyber risk · compliance
 
@@ -35,9 +44,15 @@ How I hold the role in my head: the legal duties of a Security Officer under Por
 
 **Operations:** asset inventory · CMDB · risk treatment · technical and organisational measures (TOMs) · PSI · acceptable use · IRP · BCP / DR · RTO / RPO · SIEM · EDR · vulnerability management · least privilege · MFA · Zero Trust · supply-chain risk · audit · SoA (statement of applicability)
 
+</details>
+
+---
+
+## Duty map
+
 ```mermaid
 flowchart LR
-  subgraph law [DL 65/2021]
+  subgraph law [Trained model: DL 65/2021]
     A4[Art.4 PCP]
     A5[Art.5 Security Officer]
     A6[Art.6 Inventory]
@@ -51,6 +66,14 @@ flowchart LR
   A5 --> A8
   A5 --> A11
   A4 -.-> A11
+  subgraph now [2026: DL 125/2025 + Reg. 756/2026]
+    MB[Management body accountable]
+    SC[Supply-chain security]
+    MC[MyCiber registration + reporting]
+  end
+  A5 ==> MB
+  A9 ==> SC
+  A11 ==> MC
 ```
 
 ---
@@ -70,7 +93,7 @@ flowchart LR
 | 9 | [Information security policy](modules/09-politica-seguranca/README.md) | PSI as the parent document of the SGSI |
 | 10 | [Security plan](modules/10-plano-seguranca/README.md) | Art. 7 plan: measures, owners, continuity |
 | 11 | [Annual report](modules/11-relatorio-anual/README.md) | What the Security Officer signs and sends |
-| 12 | [RJSC compliance plan](modules/12-conformidade-rjsc/README.md) | How the pieces become a programme |
+| 12 | [Compliance programme (RJC / NIS2)](modules/12-conformidade-rjsc/README.md) | How the pieces become a programme |
 | 13 | [QNRCS certification](modules/13-certificacao-qnrcs/README.md) | Basic / Substantial / High, CNCS scheme |
 | 14 | [Digital maturity seal](modules/14-selo-maturidade/README.md) | Public maturity signal vs. legal duty |
 
